@@ -31,7 +31,7 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>devopsmarkonda</name>
-		<url>http://localhost:8081/repository/wallmart-snapshot/</url>
+		<url>http://localhost:8081/repository/wallmart-snapshot</url>
       </snapshotRepository>
 	 
 	 

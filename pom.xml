@@ -29,13 +29,13 @@
   </dependencies>
    <distributionManagement>
       <repository>
-        <id>crm-project</id>
-        <name>devops markonda</name>
+        <id>nexus</id>
+        <name>devopsmarkonda</name>
 		<url>http://localhost:8081/repository/wallmart/</url>
       </repository>
       <snapshotRepository>
-        <id>crm-project</id>
-        <name>devops markonda</name>
+        <id>nexus</id>
+        <name>devopsmarkonda</name>
 		<url>http://localhost:8081/repository/wallmart-snapshot/</url>
       </snapshotRepository>
 	 
